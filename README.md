@@ -1,0 +1,1 @@
+stringer - a simple CLI to transform and inspect strings using the go cobra framework
